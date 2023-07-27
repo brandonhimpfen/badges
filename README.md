@@ -12,6 +12,7 @@ A collection of brand badges for GitHub.
 * [facebook-pages](https://github.com/brandonhimpfen/facebook-pages-badges)
 * [github](https://github.com/brandonhimpfen/github-badges)
 * [kofi](https://github.com/brandonhimpfen/kofi-badges)
+* [medium](https://github.com/brandonhimpfen/medium-badges)
 * [patreon](https://github.com/brandonhimpfen/patreon-badges)
 * [paypal](https://github.com/brandonhimpfen/paypal-badges)
 * [sponsor-project](https://github.com/brandonhimpfen/sponsor-project-badges)
